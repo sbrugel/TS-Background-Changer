@@ -1,0 +1,30 @@
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.exe.config
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.exe
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.pdb
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csprojAssemblyReference.cache
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS_Background_Changer.Form1.resources
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS_Background_Changer.Properties.Resources.resources
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.GenerateResource.cache
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.CoreCompileInputs.cache
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.exe
+C:\Users\Jules\source\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.pdb
+E:\backup\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.exe.config
+E:\backup\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.exe
+E:\backup\repos\TS Background Changer\TS Background Changer\bin\Debug\TS Background Changer.pdb
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csprojAssemblyReference.cache
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS_Background_Changer.Form1.resources
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS_Background_Changer.Properties.Resources.resources
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.GenerateResource.cache
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.CoreCompileInputs.cache
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.exe
+E:\backup\repos\TS Background Changer\TS Background Changer\obj\Debug\TS Background Changer.pdb
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\bin\Debug\TS Background Changer.exe.config
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\bin\Debug\TS Background Changer.exe
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\bin\Debug\TS Background Changer.pdb
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS Background Changer.csprojAssemblyReference.cache
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS_Background_Changer.Form1.resources
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS_Background_Changer.Properties.Resources.resources
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.GenerateResource.cache
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS Background Changer.csproj.CoreCompileInputs.cache
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS Background Changer.exe
+C:\Users\sbrug\Documents\GitHub\ts-background-changer\TS Background Changer\obj\Debug\TS Background Changer.pdb
