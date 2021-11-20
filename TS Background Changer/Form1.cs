@@ -13,10 +13,6 @@ namespace TS_Background_Changer
         string sourcePic;
         string folderOfPic;
         string gameDirectory;
-        bool deleteSourcePic;
-        Image temp; //for png's
-        readonly string startupPath = System.IO.Directory.GetCurrentDirectory();
-        readonly string dirfile;
 
         public Form1()
         {
@@ -47,7 +43,7 @@ namespace TS_Background_Changer
                 pictureBox1.ImageLocation = sourcePic;
 
                 // convert picture to an Image to get dimensions
-                System.Drawing.Image img = System.Drawing.Image.FromFile(@sourcePic);
+                Image img = Image.FromFile(@sourcePic);
                 if (img.Width == 1920 && img.Height == 1080)
                 {
                     ChangeButton.BackColor = Color.LightGreen;
@@ -78,7 +74,6 @@ namespace TS_Background_Changer
             if (File.Exists(sourcePic))
             {
                 // copy the original file over
-                string fileName = Path.GetFileName(sourcePic);
                 string bgFile = gameDirectory + "\\data\\textures\\frontend\\background.jpg";
 
                 ImageCodecInfo myImageCodecInfo = GetEncoderInfo("image/jpeg");
@@ -108,7 +103,7 @@ namespace TS_Background_Changer
                 else
                 {
                     // the background.jpg file does not exist so copy the resized image over and rename it
-                    System.IO.File.Copy(sourcePic, bgFile);
+                    File.Copy(sourcePic, bgFile);
                     FileAttributes attributes = File.GetAttributes(bgFile);
                     attributes = AddAttribute(attributes, FileAttributes.ReadOnly);
                     File.SetAttributes(bgFile, attributes);
@@ -166,16 +161,6 @@ namespace TS_Background_Changer
         private static FileAttributes AddAttribute(FileAttributes attributes, FileAttributes attributesToAdd)
         {
             return attributes | attributesToAdd;
-        }
-
-        private void TextBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
